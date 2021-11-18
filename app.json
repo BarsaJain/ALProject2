@@ -1,0 +1,25 @@
+{
+  "id": "686c4774-28fe-4436-9553-dc33b00f41e1",
+  "name": "Git 2nd test",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 53100,
+      "to": 54149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
